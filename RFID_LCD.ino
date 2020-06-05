@@ -250,7 +250,7 @@ void printOrd(String lista[], int listeLengde, int forrigeOrd, String ordklasse)
   }
   Serial.println("Etter while");
 
-  //sett forrigeords random tall til ny ords random tall etter første scan 
+  //Switch case kobler nyOrd til bestemte ordklassen for å unngå at alle ordklasser bruke en felles nyOrd 
   switch(ordklasse.charAt(2)) 
   {
     case 'o':
