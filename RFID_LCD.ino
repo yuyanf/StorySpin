@@ -126,7 +126,7 @@ void loop()
       else
       {
         bruktOpp();
-      }//brukere får skanne maks 2 ganger per kort hver spillerunde
+      }//brukere får skanne maks 3 ganger per kort hver spillerunde
       break;
 
 
@@ -204,7 +204,7 @@ void loop()
 }//mainloop 
 
 
-void resetAll()
+void resetAll()//reseter status gjaldt forrige person, fjerner sperret kort 
 {
   Serial.println("Resetta alt");
   pronoTeller = 0;
@@ -301,7 +301,7 @@ void printOrd(String lista[], int listeLengde, int forrigeOrd, String ordklasse)
 }//printOrd
 
 
-void bruktOpp() 
+void bruktOpp() //metode for å vise brukere at sjansen er brukt opp
 { 
   lcd.clear();
   lcd.print("O P S! Sjanse er");
