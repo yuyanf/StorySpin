@@ -9,7 +9,7 @@ MFRC522 mfrc522(SS_PIN, RST_PIN);   // Create MFRC522 instance.
 // initialize the library with the numbers of the interface pins
 LiquidCrystal lcd(2,3,4,5,6,7);
 
-boolean harSpunnet = false; //status når roulette ikke har spunnet
+boolean harSpunnet = false; //status når ruletten ikke har spunnet
 
 const char pronomen = '6';
 String pronoListe[6] = {"Oss", "Meg", "Dere", "Dem", "Deg", "Den"};
@@ -49,12 +49,12 @@ void setup()
   Serial.begin(9600);   // Initiate a serial communication
   SPI.begin();      // Initiate  SPI bus
   mfrc522.PCD_Init();   // Initiate MFRC522
-  randomSeed(analogRead(0)); //Gir en nyt sett med random naar man skal uploade kode paa nytt.
+  randomSeed(analogRead(0)); //Gir en ny sett med random når man skal uploade kode på nytt.
   pinMode(resetPin, INPUT);
   // set up for intro 
   lcd.begin(16, 2);
 
-  //Ventetid etter at batteriene er slaatt paa.
+  //Ventetid etter at batteriene er slått paa.
   for(int i = 15; i > 0; i--) 
   {
     lcd.clear();
@@ -118,8 +118,10 @@ void loop()
     case pronomen:
       if(pronoTeller < 3)//sjekk om kortet har blitt skannet 3 ganger allerede, pronoTellers initialverdi er 0
       {
-        //bruker listeLengde som variabel slik at vi senere kan legge til eller fjerne ord fra listen uten a maatte endre pa storrelsen i koden.
-        int listeLengde = sizeof(pronoListe)/sizeof(pronoListe[0]);// total antall bytes dele på en string element som er 6 byte gir storrelse til array.
+        //bruker listeLengde som variabel slik at vi senere kan legge til eller fjerne ord fra 
+        //listen uten a maatte endre pa storrelsen i koden.
+        int listeLengde = sizeof(pronoListe)/sizeof(pronoListe[0]);// total antall bytes dele på en string element som er 6 byte 
+                                                                   //gir storrelse til array.
         printOrd(pronoListe, listeLengde, pronoForrige, "Pronomen:");
         pronoTeller++;
       }
