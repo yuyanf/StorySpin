@@ -6,20 +6,26 @@ Full video can be seen on <a href = "https://vimeo.com/422229195">Vimeo</a>
 
 
 <h2>How does StorySpin function</h2>
-<img src="function.jpg">
+
+![function](https://user-images.githubusercontent.com/62013327/108324269-f81cce00-71c7-11eb-90ae-5d47bd54c027.jpg)
 
 <h2>Components and circuit</h2>
-<img src="krets.png">
-<img src="components.jgp">
+
+![krets](https://user-images.githubusercontent.com/62013327/108324261-f521dd80-71c7-11eb-8ab3-5e4a77349b88.png)
+
 
 <h2>Tangible interaction</h2>
 Due to COVID-19 we were limied to how we prototype and how we run user testing. Role play, interview and Wizard of Oz were therefore used on low-fidelity prototypes. 
-<img src="proto1.jpg">
-<img src="proto2.jpg">
-<img src="proto3.jpg">
+These are the 3 versions we had for low-fidelity prototypes.
 
-<h3>This is the final prototype</h3>
+![proto1](https://user-images.githubusercontent.com/62013327/108324239-edfacf80-71c7-11eb-9f7d-93522791923b.png)
 
+![proto2](https://user-images.githubusercontent.com/62013327/108324252-f18e5680-71c7-11eb-87a3-298e093c26f5.png)
+
+![proto3](https://user-images.githubusercontent.com/62013327/108324193-e0454a00-71c7-11eb-9017-5ffa3dbce648.png)
+
+
+A Summative user testing was done on a high-fidelity prototype.
 ![final1](https://user-images.githubusercontent.com/62013327/108323418-f0a8f500-71c6-11eb-8ff2-182a7ce3459f.png)
 
 ![final2](https://user-images.githubusercontent.com/62013327/108323785-5f864e00-71c7-11eb-85c0-7d0b394d5262.png)
