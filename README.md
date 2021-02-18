@@ -11,7 +11,6 @@
 
 ![function](https://user-images.githubusercontent.com/62013327/108324269-f81cce00-71c7-11eb-90ae-5d47bd54c027.jpg)
 
-<h3>Activity diagram</h3>
 
 # Components and circuit
 
