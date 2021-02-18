@@ -1,16 +1,17 @@
 # StroySpin by ZOMY_ IN1060 VÅR 2020 <a href="https://www.uio.no/studier/emner/matnat/ifi/IN1060/v20/prosjekter-20/zomy/index.html">(complete description of the project)</a>
-<h2>Introduction</h2>
-StorySpin is an Arduino-based prototype within Social technology for level-3 participants in Norwegian language training <a href="https://www.udir.no/lk20/nor07-02/kompetansemaal-og-vurdering/kv101">(Udir leve-3)</a>
-<br>
+# Introduction
+<h3>StorySpin is an Arduino-based prototype within Social technology for level-3 participants in Norwegian language training <a href="https://www.udir.no/lk20/nor07-02/kompetansemaal-og-vurdering/kv101">(Udir leve-3)</a></h3>
 
 ![demo](https://user-images.githubusercontent.com/62013327/108325299-3cf53480-71c9-11eb-870e-b2544a2e6e73.gif)
 
-Full video can be seen on <a href = "https://vimeo.com/422229195">Vimeo</a>
+<h3>Full video can be seen on <a href = "https://vimeo.com/422229195">Vimeo</a></h3>
 
 
 <h2>How does StorySpin function</h2>
 
 ![function](https://user-images.githubusercontent.com/62013327/108324269-f81cce00-71c7-11eb-90ae-5d47bd54c027.jpg)
+
+Activity diagram
 
 <h2>Components and circuit</h2>
 
