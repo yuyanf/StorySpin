@@ -1,7 +1,10 @@
 # StroySpin by ZOMY_ IN1060 VÅR 2020 <a href="https://www.uio.no/studier/emner/matnat/ifi/IN1060/v20/prosjekter-20/zomy/index.html">(complete description of the project)</a>
 <h2>Introduction</h2>
 StorySpin is an Arduino-based prototype within Social technology for level-3 participants in Norwegian language training <a href="https://www.udir.no/lk20/nor07-02/kompetansemaal-og-vurdering/kv101">(Udir leve-3)</a>
-<img src="demo.gif">
+<br>
+
+![demo](https://user-images.githubusercontent.com/62013327/108325299-3cf53480-71c9-11eb-870e-b2544a2e6e73.gif)
+
 Full video can be seen on <a href = "https://vimeo.com/422229195">Vimeo</a>
 
 
@@ -16,7 +19,7 @@ Full video can be seen on <a href = "https://vimeo.com/422229195">Vimeo</a>
 
 <h2>Tangible interaction</h2>
 Due to COVID-19 we were limied to how we prototype and how we run user testing. Role play, interview and Wizard of Oz were therefore used on low-fidelity prototypes. 
-These are the 3 versions we had for low-fidelity prototypes.
+These are the 3 versions we had of low-fidelity prototypes.
 
 ![proto1](https://user-images.githubusercontent.com/62013327/108324239-edfacf80-71c7-11eb-9f7d-93522791923b.png)
 
