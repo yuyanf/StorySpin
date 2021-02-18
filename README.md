@@ -7,20 +7,18 @@
 <h3>Full video can be seen on <a href = "https://vimeo.com/422229195">Vimeo</a></h3>
 
 
-<h2>How does StorySpin function</h2>
+# How does StorySpin function
 
 ![function](https://user-images.githubusercontent.com/62013327/108324269-f81cce00-71c7-11eb-90ae-5d47bd54c027.jpg)
 
-Activity diagram
+<h3>Activity diagram</h3>
 
-<h2>Components and circuit</h2>
+# Components and circuit
 
 ![krets](https://user-images.githubusercontent.com/62013327/108324261-f521dd80-71c7-11eb-8ab3-5e4a77349b88.png)
 
-
-<h2>Tangible interaction</h2>
-Due to COVID-19 we were limied to how we prototype and how we run user testing. Role play, interview and Wizard of Oz were therefore used on low-fidelity prototypes. 
-These are the 3 versions we had of low-fidelity prototypes.
+# Tangible interaction
+<h3>These are the 3 versions we had of low-fidelity prototypes. Role play, interview and Wizard of Oz were used a lot in this stage.</h3>
 
 ![proto1](https://user-images.githubusercontent.com/62013327/108324239-edfacf80-71c7-11eb-9f7d-93522791923b.png)
 
@@ -29,7 +27,8 @@ These are the 3 versions we had of low-fidelity prototypes.
 ![proto3](https://user-images.githubusercontent.com/62013327/108324193-e0454a00-71c7-11eb-9017-5ffa3dbce648.png)
 
 
-A Summative user testing was done on a high-fidelity prototype.
+<h3>A summative user testing was done on the final prototype</h3>
+
 ![final1](https://user-images.githubusercontent.com/62013327/108323418-f0a8f500-71c6-11eb-8ff2-182a7ce3459f.png)
 
 ![final2](https://user-images.githubusercontent.com/62013327/108323785-5f864e00-71c7-11eb-85c0-7d0b394d5262.png)
