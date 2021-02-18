@@ -12,7 +12,7 @@
 ![function](https://user-images.githubusercontent.com/62013327/108324269-f81cce00-71c7-11eb-90ae-5d47bd54c027.jpg)
 
 
-# Illustration of Circuit boards
+# Illustration of circuit boards
 
 ![krets](https://user-images.githubusercontent.com/62013327/108324261-f521dd80-71c7-11eb-8ab3-5e4a77349b88.png)
 
