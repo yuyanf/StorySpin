@@ -16,5 +16,5 @@ Full video can be seen on <a href = "https://vimeo.com/422229195">Vimeo</a>
 Due to COVID-19 we were limied to how we prototype and how we run user testing. Role play, interview and Wizard of Oz were therefore used on low-fidelity prototypes. 
 <img src="proto1.jpg">
 <img src="proto2.jpg">
-<img src="final1.jpg">
+![final1](https://user-images.githubusercontent.com/62013327/108323418-f0a8f500-71c6-11eb-8ff2-182a7ce3459f.png)
 <img src="final2.jpg"
