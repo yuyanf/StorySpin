@@ -25,8 +25,8 @@
 
 ![proto3](https://user-images.githubusercontent.com/62013327/108324193-e0454a00-71c7-11eb-9017-5ffa3dbce648.png)
 
-
-<h3>A summative user testing was done on the final prototype</h3>
+# Final result
+<h3>Usability testing and a summative user testing was done on the final prototype</h3>
 
 ![final1](https://user-images.githubusercontent.com/62013327/108323418-f0a8f500-71c6-11eb-8ff2-182a7ce3459f.png)
 
